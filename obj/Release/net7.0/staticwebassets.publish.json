@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gSEc1BlbkHqqgDVyYWjZv4bpy7cPhDoXq3OmmjSe/aA=",
+  "Source": "senai-lh-pets",
+  "BasePath": "_content/senai-lh-pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "senai-lh-pets/wwwroot",
+      "Source": "senai-lh-pets",
+      "ContentRoot": "/home/workstation/Programming/senai-lh-pets/wwwroot/",
+      "BasePath": "_content/senai-lh-pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/workstation/Programming/senai-lh-pets/wwwroot/index.html",
+      "SourceId": "senai-lh-pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/workstation/Programming/senai-lh-pets/wwwroot/",
+      "BasePath": "_content/senai-lh-pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
